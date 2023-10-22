@@ -33,8 +33,6 @@ these issues, so I wanted to automate this to be as open as possible.
 ### What's missing (but from the official release, too)?
 
 - Motion controls
-- Rumble / force feedback
-- Adaptative triggers
 
 # About Chiaki
 
